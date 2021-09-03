@@ -7,10 +7,10 @@ questionName/langName/userName/..etc :: 문제를 업로드 할 때
 ### 커밋규칙 ✅
 ```
 # brach 생성
-master -> userName
+main -> userName
 
 # 병합
-userName -> master [Pull-Request -> Merge]
+userName -> main [Pull-Request -> Merge]
 ```
 
 ### 담겨있어야 할 내용 🪶
