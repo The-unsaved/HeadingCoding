@@ -1,9 +1,8 @@
 # 직사각형 별찍기
 
-1. 문제   
+1. 문제
 
-![question](../../../../../../Library/Containers/com.majimakHARU.GrabIt/Data/2021-09-04_02-30-01.png)
-
+![Question](../../../img/kyungjun/직사각형-별찍기.png)
 
 2. 코드 설명
 ```java
