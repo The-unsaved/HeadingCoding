@@ -1,7 +1,7 @@
 # 핸드폰 번호 가리기
 
 1. 문제
-![](../../../img/kyungjun/핸드폰-번호-가리기.png)
+![Question](../../../img/kyungjun/핸드폰-번호-가리기.png)
 2. 코드 설명
 ```java
 class Solution {
