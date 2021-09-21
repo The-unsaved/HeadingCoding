@@ -1,5 +1,5 @@
 ### 문제
-![Question](../../../img/youhyun/수박수박수박수박수박수?.png)
+![Question](../../../img/youhyun/수박.png)
 
 <br>
 
