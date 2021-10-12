@@ -4,7 +4,6 @@
 
 # 문제 풀이
 
-
 ```java
 class Solution {
     public static double solution(int[] arr){
